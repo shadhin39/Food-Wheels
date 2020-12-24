@@ -9,8 +9,5 @@
  * **CSS**
  * **PHP**
 
-# Features
-- User can learn **C Programming** through *Online Tuorials* and *Offline Tutorials*
-- User can give *Quiz* based on **Programming Language C**. User must be signned in to give the *Quiz*
-- User can Run run his/her on own **Code** in the online platform 
-- User can solve some question of well known **Online Judge** as well they can see the solu
+# Over View
+This is a restaurant website from where one can order online foods as well as can review them if he has accounts, one can apply for a chef's job if there is any vacancy. To built this application HTML, CSS, PHP and database are used.
